@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "CivicBot AI",
+    "subtitle": "Built with Zara",
+    "description": "CivicBot AI is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://560f4b57609e41e6816c0a6fda4c00f4-e2sr.vercel.app",
+    "splashImageUrl": "https://560f4b57609e41e6816c0a6fda4c00f4-e2sr.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://560f4b57609e41e6816c0a6fda4c00f4-e2sr.vercel.app/image.png",
+    "tagline": "CivicBot AI",
+    "screenshotUrls": [
+      "https://560f4b57609e41e6816c0a6fda4c00f4-e2sr.vercel.app/screenshot.png",
+      "https://560f4b57609e41e6816c0a6fda4c00f4-e2sr.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://560f4b57609e41e6816c0a6fda4c00f4-e2sr.vercel.app/api/webhook"
+  }
+}

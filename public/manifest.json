@@ -1,0 +1,14 @@
+{
+  "name": "CivicBot AI",
+  "description": "CivicBot AI is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://560f4b57-609e-41e6-816c-0a6fda4c00f4.vercel.app",
+  "properties": {
+    "app": {
+      "name": "CivicBot AI",
+      "description": "CivicBot AI is a Base Mini App built with Zara.",
+      "url": "https://560f4b57-609e-41e6-816c-0a6fda4c00f4.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
